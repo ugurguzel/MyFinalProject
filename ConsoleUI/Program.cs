@@ -13,8 +13,8 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             //Data Transformation Object
-            ProductTest();
-            //CategoryTest();
+            //ProductTest();
+            CategoryTest();
 
 
         }
